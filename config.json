@@ -65,6 +65,20 @@
       "description": "Create a REST API with FastAPI, including CRUD operations and request validation.",
       "path": "assignments/building-rest-apis-with-fastapi",
       "dueDate": "2026-11-11"
+    },
+    {
+      "id": "primeiros-passos-com-testes-automatizados",
+      "title": "Primeiros passos com testes automatizados em Python",
+      "description": "Escreva e execute testes automatizados para funções Python usando pytest.",
+      "path": "assignments/primeiros-passos-com-testes-automatizados",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Código inicial",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
